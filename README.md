@@ -1,1 +1,1 @@
-# odin-recipes
+This website will test the HTML knowledge acquired in the HTML section in the Udin project: -Headings -Paragraphs -Links -Images -Ordered and unordered lists. This will onlu contain HTML and when further into the curriculum we'll add CSS. This will be a basic Recipes website. It will consist of a main index page which will include links to a few recipes
