@@ -1,0 +1,16 @@
+body {
+    background-color: #dfd3c3;
+    color: #596e79;
+    font-family: monospace, serif;
+}
+h1 {
+    font-size: 5em;
+    text-align: center;
+}
+p, li{
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 3em;
+    text-align: center;
+}
